@@ -125,3 +125,12 @@ example_iris_data:
   type: CSVLocalDataSet
   filepath: data/01_raw/iris.csv
 
+companies:
+  type: CSVLocalDataSet
+  filepath: data/01_raw/companies.csv
+
+reviews:
+  type: CSVLocalDataSet
+  filepath: data/01_raw/reviews.csv
+
+
